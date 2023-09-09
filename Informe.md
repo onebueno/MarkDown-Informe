@@ -249,7 +249,7 @@ EL PRODUCTO:
 
 
 #### 2.3.5 As-Is Scenario Mapping
-Segmento 1:Conductor
+Segmento 1: Conductor
 
 ![asismap](asismap.png)
 
