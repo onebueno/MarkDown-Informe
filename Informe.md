@@ -248,4 +248,11 @@ EL PRODUCTO:
 |La señora Ericka nos comenta que lo más importante antes de vender o alquilar es la identificación del conductor y la placa del vehículo para evitar problemas. Considera que la tarifa debe ser más económica que los grandes estacionamientos incluyendo una tarifa por minutos, algo que no se considera en las empresas grandes. Dice que es importante poder incluir una función de reserva, publicar promociones por uso de estacionamiento | ![entrevista1](entrevista2.jpeg)|
 
 
+#### 2.3.5 As-Is Scenario Mapping
+Segmento 1:Conductor
 
+![asismap](asismap.png)
+
+Segmento 2: Dueño de estacionamiento
+
+![asismap2](asismap2.png)
